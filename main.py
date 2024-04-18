@@ -26,7 +26,7 @@ skills_df = pd.DataFrame(skills_data)
 experience_data = {
     "Position": ["Software Intern"],
     "Company": ["HumInspAiRe"],
-    "Duration": ["06/04/23 - Current"],
+    "Duration": ["06/04/23 - 11/12/23"],
     "Description": [
 
         "Working on software development projects at HumInspAiRe.",
