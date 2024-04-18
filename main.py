@@ -11,7 +11,7 @@ projects_data = {
         "Description: In creating an AI-based Tour Guide for Pune, we collected comprehensive data from Google Maps, Zomato, and MakeMyTrip APIs, conducted thorough data cleaning and exploratory data analysis (EDA), merged datasets using location coordinates, employed KNN for proximity analysis, and implemented collaborative and content-based filtering for effective recommendations. The results were integrated into a streamlined UI using Streamlit, offering users personalized suggestions for nearby place",
     ],
     "Link": ["https://github.com/Cks7/sms-spam-classifier", "https://github.com/Cks7/TripPlanner"],
-    "Weblink":["No link","https://tripplanner-a8gz2txa6kzguqdajsmn7j.streamlit.app/"]
+    "Weblink":["No link","https://tripplanner-fje5bw7wyypvcwzmffhkfe.streamlit.app/"]
 }
 
 projects_df = pd.DataFrame(projects_data)
